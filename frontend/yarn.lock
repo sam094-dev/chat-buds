@@ -3895,9 +3895,9 @@
     "lodash.uniq" "^4.5.0"
 
 "caniuse-lite@^1.0.0", "caniuse-lite@^1.0.30000981", "caniuse-lite@^1.0.30001109", "caniuse-lite@^1.0.30001125", "caniuse-lite@^1.0.30001219":
-  "integrity" "sha512-QQmLOGJ3DEgokHbMSA8cj2a+geXqmnpyOFT0lhQV6P3/YOJvGDEwoedcwxEQ30gJIwIIunHIicunJ2rzK5gB2A=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001228.tgz"
-  "version" "1.0.30001228"
+  "integrity" "sha512-Jj917pJtYg9HSJBF95HVX3Cdr89JUyLT4IZ8SvM5aDRni95swKgYi3TgYLH5hnGfPE/U1dg6IfZ50UsIlLkwSA=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001524.tgz"
+  "version" "1.0.30001524"
 
 "capture-exit@^2.0.0":
   "integrity" "sha512-PiT/hQmTonHhl/HFGN+Lx3JJUznrVYJ3+AQsnthneZbvW7x+f08Tk7yLJTLEOUvBTbduLeeBkxEaYXUOUrRq6g=="
@@ -3988,7 +3988,7 @@
     "jsonwebtoken" "^8.5.1"
     "mongoose" "^5.12.9"
     "nodemon" "^2.0.7"
-    "socket.io" "^4.1.2"
+    "socket.io" "^4.7.2"
 
 "check-types@^11.1.1":
   "integrity" "sha512-tzWzvgePgLORb9/3a0YenggReLKAIb2owL03H2Xdoe5pKcUyWRSEQ8xfCar8t2SIAuEDwtmx2da1YB52YuHQMQ=="
@@ -5179,14 +5179,14 @@
   dependencies:
     "once" "^1.4.0"
 
-"engine.io-client@~6.5.1":
-  "integrity" "sha512-hE5wKXH8Ru4L19MbM1GgYV/2Qo54JSMh1rlJbfpa40bEWkCKNo3ol2eOtGmowcr+ysgbI7+SGL+by42Q3pt/Ng=="
-  "resolved" "https://registry.npmjs.org/engine.io-client/-/engine.io-client-6.5.1.tgz"
-  "version" "6.5.1"
+"engine.io-client@~6.5.2":
+  "integrity" "sha512-CQZqbrpEYnrpGqC07a9dJDz4gePZUgTPMU3NKJPSeQOyw27Tst4Pl3FemKoFGAlHzgZmKjoRmiJvbWfhCXUlIg=="
+  "resolved" "https://registry.npmjs.org/engine.io-client/-/engine.io-client-6.5.2.tgz"
+  "version" "6.5.2"
   dependencies:
     "@socket.io/component-emitter" "~3.1.0"
     "debug" "~4.3.1"
-    "engine.io-parser" "~5.1.0"
+    "engine.io-parser" "~5.2.1"
     "ws" "~8.11.0"
     "xmlhttprequest-ssl" "~2.0.0"
 
@@ -5194,6 +5194,11 @@
   "integrity" "sha512-enySgNiK5tyZFynt3z7iqBR+Bto9EVVVvDFuTT0ioHCGbzirZVGDGiQjZzEp8hWl6hd5FSVytJGuScX1C1C35w=="
   "resolved" "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-5.1.0.tgz"
   "version" "5.1.0"
+
+"engine.io-parser@~5.2.1":
+  "integrity" "sha512-9JktcM3u18nU9N2Lz3bWeBgxVgOKpw7yhRaoxQA3FUDZzzw+9WlA6p4G4u0RixNkg14fH7EfEc/RhpurtiROTQ=="
+  "resolved" "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-5.2.1.tgz"
+  "version" "5.2.1"
 
 "engine.io@~6.5.0":
   "integrity" "sha512-mGqhI+D7YxS9KJMppR6Iuo37Ed3abhU8NdfgSvJSDUafQutrN+sPTncJYTyM9+tkhSmWodKtVYGPPHyXJEwEQA=="
@@ -11218,14 +11223,14 @@
   dependencies:
     "ws" "~8.11.0"
 
-"socket.io-client@^4.7.1":
-  "integrity" "sha512-Qk3Xj8ekbnzKu3faejo4wk2MzXA029XppiXtTF/PkbTg+fcwaTw1PlDrTrrrU4mKoYC4dvlApOnSeyLCKwek2w=="
-  "resolved" "https://registry.npmjs.org/socket.io-client/-/socket.io-client-4.7.1.tgz"
-  "version" "4.7.1"
+"socket.io-client@^4.7.2":
+  "integrity" "sha512-vtA0uD4ibrYD793SOIAwlo8cj6haOeMHrGvwPxJsxH7CeIksqJ+3Zc06RvWTIFgiSqx4A3sOnTXpfAEE2Zyz6w=="
+  "resolved" "https://registry.npmjs.org/socket.io-client/-/socket.io-client-4.7.2.tgz"
+  "version" "4.7.2"
   dependencies:
     "@socket.io/component-emitter" "~3.1.0"
     "debug" "~4.3.2"
-    "engine.io-client" "~6.5.1"
+    "engine.io-client" "~6.5.2"
     "socket.io-parser" "~4.2.4"
 
 "socket.io-parser@~4.2.4":
