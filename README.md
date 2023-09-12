@@ -16,13 +16,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/sam094-dev/Chat-Project
+  git clone https://github.com/sam094-dev/Chat-App
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd Chat-App
 ```
 
 Install dependencies
@@ -39,7 +39,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  node server.js
 ```
 Start the Client
 
@@ -48,5 +48,25 @@ Start the Client
   cd frontend
   npm start
 ```
+
+  
+# Features
+
+### Authenticaton
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/login.PNG)
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/signup.PNG)
+### Real Time Chatting with Typing indicators
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/realTime.png)
+### One to One chat
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/mainChatPage.png)
+### Search Users
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/searchuser.png)
+### Create Group Chats
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/addGroup.png)
+### Notifications 
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/notification.png)
+### View Other user Profile
+![](https://github.com/sam094-dev/Chat-App/blob/master/screenshots/profile.PNG)
+
 
   
